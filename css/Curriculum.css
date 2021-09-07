@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+    margin:20px;
+    
+}
+header{
+    text-align: center;
+    margin:10px;
+}
+
+
+.Red{
+    color: red;
+    width: 100%;
+    height: 20px;
+    background-color: gray;
+    font-weight: 500px;
+    margin: 15px;
+}
+
+.Violet{
+    color: rgb(206, 25, 206);
+    background-color: rgba(128, 123, 123, 0.534);
+    width: 100%;
+    margin-left: 15px;
+}
+
+
+.datapersonal{
+    width: 100%;
+    height: 125px;
+    background-color:rgba(128, 128, 128, 0.247);
+    margin: 15px;
+}
+
+.blue{
+    color:blue;
+}
+
+.date{
+    color: green;
+    background-color:rgba(128, 128, 128, 0.247);
+    margin-left: 15px;
+}
+
+.black{
+    color: black;
+}
+
+.white{
+    margin: 5px;
+    margin-left: 12px;
+}
+
+.blue2{
+    color: blue;
+    margin-left: 8px;
+    background-color:rgba(128, 128, 128, 0.247);
+
+}
+
+.lenguajes{
+    width: 100%;
+    height: 60px;
+    margin: 10px;
+}
+
+
+.org, .tec{
+    margin:15px 0px 15px 0px;
+}
